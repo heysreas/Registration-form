@@ -22,6 +22,10 @@ This project is a simple registration form that captures user information and st
 - [MongoDB](https://www.mongodb.com/try/download/community) installed and running on your machine.
 - Basic knowledge of command-line operations.
 
+![Screenshot (196)](https://github.com/heysreas/Registration-form/assets/66879814/de45796c-c1b7-41f2-9b87-4b5a9f1d16ce)
+![Screenshot (195)](https://github.com/heysreas/Registration-form/assets/66879814/a225ed4a-032d-4607-946f-81d104c9e2dd)
+
+
 ## Installation
 
 1. **Clone the repository**:
